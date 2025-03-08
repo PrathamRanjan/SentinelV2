@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
+.chat-boxes {
+  margin-top: 10px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  background-color: #f9f9f9;
+}
+
+.lawyer1, .lawyer2 {
+  padding: 5px;
+  margin: 5px 0;
+  border-radius: 5px;
+}
+
+.lawyer1 {
+  background-color: lightblue;
+}
+
+.lawyer2 {
+  background-color: lightcoral;
+}
