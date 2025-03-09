@@ -1,0 +1,8 @@
+{
+  "model_name": "roberta-base",
+  "max_length": 128,
+  "training_date": "2025-03-09 16:08:24",
+  "eval_loss": 0.102850042283535,
+  "dataset_size": 7679,
+  "model_type": "transformer"
+}
